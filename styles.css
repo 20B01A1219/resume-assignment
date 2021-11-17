@@ -1,0 +1,36 @@
+table{
+    width : 85%;
+    height :50%;
+}
+#img1{
+    background-color: azure;
+    width: 25%;   
+}
+.subheading{
+    background-color: darkgrey;
+    padding-top: 3px;
+}
+.toinline{
+    display : inline;
+    font-size: 15px;
+
+}
+#rightshift{
+    padding-left : 50%;
+}
+#rightshift1{
+    padding-left : 56%;
+}
+.persondata{
+    background-color: blue;
+    color : white;
+    padding-left : 5%;
+}
+body{
+    font-size: 18px;
+}
+.vertical{
+    background-color: #DCDCDC;
+    padding-top : 1px;
+    padding-bottom: 50%;
+}
